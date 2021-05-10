@@ -2,15 +2,15 @@
 
 A dark theme with beautiful blue-green colors for GtkSourceView based text editors.
 
-Copy the [chameleon.xml](https://github.com/kuladog/gedit-color-scheme/blob/main/chameleon.xml) file into a folder of the style search path:
+Copy the [chameleon.xml](https://github.com/kuladog/gedit-color-scheme/blob/main/chameleon.xml) file into a folder of the style search path.
 
-Typical search paths for GtkSourceView version 3.0.
+Typical search paths for GtkSourceView version 3.0:
 1. `~/.local/share/gtksourceview-3.0/styles/`
 2. `/usr/share/gnome/gtksourceview-3.0/styles/`
 3. `/usr/local/share/gtksourceview-3.0/styles/`
 4. `/usr/share/gtksourceview-3.0/styles/`
 
-Typical search paths for GtkSourceView version 4.
+Typical search paths for GtkSourceView version 4:
 1. `~/.local/share/gtksourceview-4/styles/`
 2. `/usr/share/gnome/gtksourceview-4/styles/`
 3. `/usr/local/share/gtksourceview-4/styles/`
