@@ -1,6 +1,6 @@
 ## Chameleon Color Scheme
 
-A dark theme with beautiful blue-green colors for GtkSourceView based text editors.
+A dark theme with a beautiful blue-green schema for GtkSourceView based text editors.
 
 Copy the [chameleon.xml](https://github.com/kuladog/gedit-color-scheme/blob/main/chameleon.xml) file into a folder of the style search path.
 
